@@ -6,7 +6,9 @@ Steps needed to start the App:
 3) The code has three local data JSON files.
 
   Run : **json-server --watch data/todos.json --port 8001**
+  
   Run : **json-server --watch data/inprocess.json --port 8002**
+  
   Run : **json-server --watch data/completed.json --port 8003**
 4) Run **npm start**
 
