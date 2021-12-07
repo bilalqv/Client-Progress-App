@@ -24,3 +24,5 @@ Further, individual cards defined for each client are clickable and on clicking 
 -> Three dots on the card depict two options edit and delete. Delete option is functional.
 
 
+Functionalities not implemented yet:
+Drag and Drop property.
