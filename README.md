@@ -10,6 +10,7 @@ Steps needed to start the App:
   Run : **json-server --watch data/inprocess.json --port 8002**
   
   Run : **json-server --watch data/completed.json --port 8003**
+
 4) Run **npm start**
 
 Functionalities implemented in the App:
