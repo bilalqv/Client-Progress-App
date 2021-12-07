@@ -1,4 +1,4 @@
-### Starter Project for the Material UI playlist
+### Davinci Assignmenet Project
 
 Steps needed to start the App:
 1) Download the code
