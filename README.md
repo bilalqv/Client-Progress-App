@@ -1,4 +1,4 @@
-### Davinci Assignmenet Project
+### Developed an App using React.js which can be used to track progress of different  cleints' projects.
 
 Steps needed to start the App:
 1) Download the code
@@ -24,5 +24,5 @@ Further, individual cards defined for each client are clickable and on clicking 
 -> Three dots on the card depict two options edit and delete. Delete option is functional.
 
 
-Functionalities not implemented yet:
+Functionalities yet to be implemented:
 Drag and Drop property.
