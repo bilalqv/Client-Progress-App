@@ -15,7 +15,7 @@ Steps needed to start the App:
 
 Functionalities implemented in the App:
 
--> This platform should contain a dashboard where we can track the different phases in which customers are.
+-> This platform contains a dashboard where we can track the different phases in which customers are.
 -> There is be an option to add a new client.
 -> After adding a new client, the card is added in the Todo cards list.
 -> Cards show only the high level information yet useful on the dashboard.
