@@ -1,15 +1,15 @@
 ### Developed an App using React.js which can be used to track progress of different  cleints' projects.
 
 #### Steps needed to start the App:
-1) Download the code
-2) Run `npm install` to install dependencies before starting the app. ( dependencies listed in the [package.json](package.json) file will be installed )
+1) Download or clone this repository.
+2) Go to this project's directory and Run `npm install` to install dependencies before starting the app. ( dependencies listed in the [package.json](package.json) file will be installed )
 3) The code has three local data JSON files.
 
-  Run : **json-server --watch data/todos.json --port 8001**
+    Run : `json-server --watch data/todos.json --port 8001`
   
-  Run : **json-server --watch data/inprogress.json --port 8002**
+    Run : `json-server --watch data/inprogress.json --port 8002`
   
-  Run : **json-server --watch data/completed.json --port 8003**
+    Run : `json-server --watch data/completed.json --port 8003`
 
 4) Run `npm start`
 
