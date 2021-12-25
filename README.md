@@ -28,7 +28,7 @@ Functionalities yet to be implemented:
 
 Drag and Drop property.
 
-Screenshot of the App
+Screenshots of the App
 
 
 ![](src/images/img1.png)
