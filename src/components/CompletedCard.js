@@ -150,7 +150,7 @@ export default function CompletedCard({ note, handleDeleteCompleted }) {
                 <br />
                 <Typography variant="h6">100% Complete</Typography>
             
-                <BorderLinearProgress variant="determinate" value={note.percentage} />
+                <BorderLinearProgress variant="determinate" value={100} />
                 </CardActionArea>
                 </CardContent>
                 <CardActions>

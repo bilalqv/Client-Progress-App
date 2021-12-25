@@ -71,7 +71,7 @@ export default function Layout({children}) {
             elevation={0}
             >
                 <Toolbar className={classes.active}>
-                    <Typography variant='h4' >DaVinci Corps</Typography>
+                    <Typography variant='h4' >My App</Typography>
                 </Toolbar>
                 <Toolbar className={classes.active}>
                     <Typography variant='h5' className={classes.date}>

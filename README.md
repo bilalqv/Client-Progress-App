@@ -27,3 +27,11 @@ Further, individual cards defined for each client are clickable and on clicking 
 Functionalities yet to be implemented:
 
 Drag and Drop property.
+
+Screenshot of the App
+
+
+![](src/images/img1.png)
+
+
+![](src/images/img2.png)
