@@ -36,7 +36,7 @@ Drag and Drop property.
 #### Screenshots of the App
 
 
-![](src/images/img1.png)
+![](src/images/img3.png)
 
 
 ![](src/images/img2.png)
