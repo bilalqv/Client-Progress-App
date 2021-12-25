@@ -2,7 +2,7 @@
 
 #### Steps needed to start the App:
 1) Download or clone this repository.
-2) Run `npm install` to install dependencies before starting the app. ( dependencies listed in the [package.json](package.json) file will be installed )
+2) Go to this project's directory and Run `npm install` to install dependencies before starting the app. ( dependencies listed in the [package.json](package.json) file will be installed )
 3) The code has three local data JSON files.
 
     Run : `json-server --watch data/todos.json --port 8001`
