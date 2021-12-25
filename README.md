@@ -33,7 +33,7 @@ f) Three dots on the card depict two options edit and delete. Delete option is f
 
 Drag and Drop property.
 
-Screenshots of the App
+#### Screenshots of the App
 
 
 ![](src/images/img1.png)
